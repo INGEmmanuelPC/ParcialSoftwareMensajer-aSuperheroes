@@ -1,6 +1,5 @@
-package parcial1.solid.avengers.main;
-
 import parcial1.solid.avengers.config.Config;
+import parcial1.solid.avengers.gui.MainForm;
 import parcial1.solid.avengers.heroes.*;
 import parcial1.solid.avengers.misiones.AsignadorMisiones;
 import parcial1.solid.avengers.misiones.Mision;
@@ -10,7 +9,6 @@ import parcial1.solid.avengers.misiones.TipoHabilidad;
 import javax.swing.*;
 import java.util.List;
 import java.util.Set;
-
 /**
  * Punto de entrada de la aplicación.
  *
