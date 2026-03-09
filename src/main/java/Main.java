@@ -14,7 +14,8 @@ import java.util.Set;
  * Actúa como "Composition Root": el lugar exclusivo donde se decide qué implementaciones
  * concretas usar y se ensambla la aplicación.
  */
-public class Main {
+public class
+Main {
     public static void main(String[] args) {
 
         // 1. Inicialización de datos base
