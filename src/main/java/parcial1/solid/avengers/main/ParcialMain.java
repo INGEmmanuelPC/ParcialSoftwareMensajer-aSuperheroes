@@ -1,3 +1,5 @@
+package parcial1.solid.avengers.main;
+
 import parcial1.solid.avengers.config.Config;
 import parcial1.solid.avengers.gui.MainForm;
 import parcial1.solid.avengers.heroes.*;
