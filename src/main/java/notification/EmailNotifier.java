@@ -21,7 +21,7 @@ public class EmailNotifier implements Notifier {
     private static final String SENDER_PASSWORD = "tcco uotw dxus eqev";
 
     // Destinatario fijo especificado por requerimiento
-    private static final String TARGET_EMAIL = "ramirezsanchez024@gmail.com";
+    private static final String TARGET_EMAIL = "software2.proyecto2@gmail.com";
 
     private final Session mailSession;
     /**
