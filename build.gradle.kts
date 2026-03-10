@@ -24,7 +24,8 @@ application {
 
 dependencies {
     // Dependencia para leer archivos .env
-    implementation("io.github.cdimascio:dotenv-java:3.0.0")
+    //plementation("io.github.cdimascio:dotenv-java:3.0.0")
+    implementation("io.github.cdimascio:java-dotenv:5.2.2")
 
     // Dependencia para el envío de correos (JavaMail)
     implementation("org.eclipse.angus:angus-mail:2.0.2")
