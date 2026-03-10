@@ -5,6 +5,14 @@
 # --- Variables sensibles ---
 .env
 
+build/
+.gradle/
+.idea/
+.vscode/
+
+*.class
+*.log
+
 # --- Clases compiladas ---
 *.class
 *.jar
